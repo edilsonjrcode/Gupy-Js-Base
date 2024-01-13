@@ -1,0 +1,17 @@
+1 - Para criar o package.json 
+npm init
+
+2 - Após isso, para adicionar o Gulp ao projeto
+yarn add gulp
+
+3 - Com os módulos adicionados, crie o arquivo gulpfile.js
+
+4 - Adicione os comandos no arquivo e comece a executar
+
+Plugins mais utilizados
+
+sass gulp-sass
+gulp-autoprefixer
+
+Gulp-browser
+gulp-babel
